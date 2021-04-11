@@ -1,2 +1,3 @@
 # HanutDB
-Scripts for creating the database of Hanut.
+Hanut uses PostgreSQL as a database server. 
+
